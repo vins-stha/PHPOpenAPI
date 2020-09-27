@@ -1,6 +1,6 @@
 <?php
 require_once('../includes/importDataFromFile.php');
-require_once('config.php');
+require_once('../includes/config.php');
 require_once('../includes/Postal_Address_Table.php');
 
 
